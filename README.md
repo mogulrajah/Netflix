@@ -7,4 +7,5 @@ what day of the week he or she watches movies the most
 the last movie he watched 
 whether he/she watches recommended movies by netflix  
 whether the person likes to watch series or single movies 
-the genre of movie he or she likes 
+the genre of movie he or she likes
+Exploratory Data Analysis was perforemd on the Netflix dataset.
