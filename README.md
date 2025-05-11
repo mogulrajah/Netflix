@@ -8,4 +8,4 @@ the last movie he watched
 whether he/she watches recommended movies by netflix  
 whether the person likes to watch series or single movies 
 the genre of movie he or she likes
-Exploratory Data Analysis was perforemd on the Netflix dataset.
+Exploratory Data Analysis was performed on the Netflix dataset.
